@@ -1,0 +1,27 @@
+.container{
+     width: 100px;
+     height: 50%;
+     display:inline-block;
+     position:relative
+}
+
+.select {
+     position: absolute;
+     top:50px;
+     bottom:50px;
+     font-size:30px;
+}
+ 
+.place {
+     position:absolute;
+     top:50px;
+     bottom: 50px;
+     left:50px;
+     right:50px;   
+}
+
+.image {
+     margin:20px;
+     display:inline-block;
+     border: radius 1px;;
+}
